@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import './App.css';
 import TimesContainer from "./pages/TimesContainer";
 
 class App extends Component {
